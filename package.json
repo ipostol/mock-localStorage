@@ -1,0 +1,19 @@
+{
+  "name": "localStorage-mock",
+  "version": "1.0.0",
+  "description": "es6 Mock for localStorage",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipostol/mock-localStorage.git"
+  },
+  "keywords": [
+    "localStorage",
+    "mock",
+    "es6"
+  ],
+  "author": "Postol Ivan",
+  "bugs": {
+    "url": "https://github.com/ipostol/mock-localStorage/issues"
+  },
+  "homepage": "https://github.com/ipostol/mock-localStorage#readme"
+}
