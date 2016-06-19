@@ -1,4 +1,4 @@
-class LocalStorage {
+module.exports = class LocalStorage {
   
   get length() {
     return Object.keys(this).length
@@ -18,5 +18,3 @@ class LocalStorage {
   }
 
 }
-
-export default new LocalStorage();
