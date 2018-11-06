@@ -29,6 +29,11 @@ module.exports = function () {
       return this[key];
     }
   }, {
+    key: "removeItem",
+    value: function removeItem(key) {
+      delete this[key];
+    }
+  }, {
     key: "length",
     get: function get() {
       return Object.keys(this).length;
