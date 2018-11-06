@@ -5,5 +5,5 @@ Hey, this is a little mock class for test localStorage.
 What need do? In you mocha --require file type next:
 
 ```js
-global.localStorage = require('localStorage-mock');
+global.localStorage = new require('localStorage-mock');
 ```
