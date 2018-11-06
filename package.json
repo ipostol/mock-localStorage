@@ -1,6 +1,6 @@
 {
   "name": "localStorage-mock",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "es6 Mock for localStorage",
   "repository": {
     "type": "git",
